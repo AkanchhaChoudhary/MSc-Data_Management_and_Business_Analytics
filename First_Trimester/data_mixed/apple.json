@@ -1,0 +1,15 @@
+{
+"symbols_requested": 1,
+"symbols_returned": 1,
+"data": [
+	{
+    	"symbol": "AAPL",
+    	"name": "Apple Inc.",
+    	"price": "174.33",
+    	"currency": "USD",
+    	"market_cap": "822014771033",
+    	"shares": "4715280000",
+    	"stock_exchange": "NASDAQ Stock Exchange"
+	}
+]
+}
