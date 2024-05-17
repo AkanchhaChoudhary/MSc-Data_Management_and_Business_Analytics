@@ -1,4 +1,0 @@
-This is the first line of text.
-And this is the second line.
-Weather is good today.
-glad you are fine.
